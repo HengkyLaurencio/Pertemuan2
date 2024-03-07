@@ -86,3 +86,4 @@ console.log(map2);
 // See the following links for hints.
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 // https://stackoverflow.com/questions/28607451/removing-undefined-values-from-array
+// test
